@@ -13,10 +13,6 @@ import sklearn
 from sklearn.metrics import adjusted_rand_score,calinski_harabasz_score
 
 
-
-
-
-
 class Kmeans():
     
     def __init__(self,filename,k,CT=0.0001,I=30,Exp=10):
