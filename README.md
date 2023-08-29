@@ -1,5 +1,5 @@
 # KMeans
-KMeans Algorithm for clustering records of a dataset using Apache Spark
+KMeans Algorithm for clustering records of a dataset using Apache Spark.
 I build a class named Kmeans, that uses the Kmeans Algorithm to cluster similar records of a dataframe.
 
 I built several helper functions (methods of the class):
